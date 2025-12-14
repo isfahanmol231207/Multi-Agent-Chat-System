@@ -156,19 +156,6 @@ The `outputs/` directory contains saved console traces for all required scenario
 
 ---
 
-## 📌 Notes
 
-* No external APIs are required
-* LLM usage is optional and not necessary for this prototype
-* System is designed for **clarity, traceability, and correctness** rather than advanced NLP
 
----
-
-## 👥 Course Information
-
-**Course:** Knowledge Representation and Reasoning
-**Department:** Creative Technologies – Artificial Intelligence
-**University:** Air University, Islamabad
-
----
 
