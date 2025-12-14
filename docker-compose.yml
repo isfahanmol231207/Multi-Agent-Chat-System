@@ -1,0 +1,10 @@
+# -------------- docker-compose.yml --------------
+version: '3.8'
+
+services:
+  multi-agent-system:
+    build: .
+    container_name: multi_agent_chat_system
+    volumes:
+      - .:/app
+    command: python main.py
